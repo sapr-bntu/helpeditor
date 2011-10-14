@@ -11,4 +11,6 @@ helpeditor::helpeditor(QWidget *parent) :
 helpeditor::~helpeditor()
 {
     delete ui;
+//    pisdijfoisds
+//            sdpfjosdi
 }
